@@ -1,0 +1,49 @@
+﻿body {
+    background-image: url("kopapriollo.png");
+}
+
+div.lehetoseg {
+    text-align: center;
+}
+
+div.opcio {
+    margin: auto;
+    display: inline-block;
+}
+
+div.opcio:hover {
+    background-color: aquamarine;
+}
+
+p {
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 4em;
+}
+
+h3 {
+    color:blue
+}
+
+.pontok{
+	position: absolute;
+	top: 20vw;
+	
+}
+
+.ures{
+	display: none;
+	margin: auto;
+	text-align: center;
+}
+
+.nemUres{
+	display: inline-block;
+	margin: auto;
+
+}
+
+div.gepLehetoseg {
+    text-align: center;
+}
+
